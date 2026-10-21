@@ -1,0 +1,55 @@
+/* ========== BARRA DE NAVEGACIÓN ========== */
+.navbar img {
+    width: 25%;
+    margin-left: 10px;
+}
+.navbar-nav a {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+/* ========== TARJETAS DE CUPONES ========== */
+.card-body h5 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #212529;
+}
+.card-body p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #707070;
+}
+.card-body .p-0 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #707070;
+}
+.card-body .fs-5 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+/* ========== SECCIÓN DE CONTACTO ========== */
+.contacto h3 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+input {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #707070;
+}
+.contacto button {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: #212529;
+}
+/* ========== PIE DE PÁGINA ========== */
+footer img {
+    width: 25%;
+}
+footer h4 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #707070;
+    padding: 5px;
+}
+
